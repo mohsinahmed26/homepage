@@ -1,0 +1,14 @@
+.main{
+    max-width: 500px;
+    margin: 78px;
+    display: inline-block;
+}
+.main{
+    display: inline-block;
+}
+tbody{
+    background-color: aquamarine;
+}
+thead{
+    background: blue;
+}
